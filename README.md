@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I'm a computer engineering student;<br>Front-end developer with React-native;<br>I am currently looking for an internship in the field;<br>
+I'm a computer engineering student;<br>Front-end and mobile/hybrid developer;<br>Open to work!;<br>
 
 
 ## 🌐 Socials:
